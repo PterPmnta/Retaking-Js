@@ -1,4 +1,4 @@
 let nombre;
 
-nombre = "pedro pimienta";
+nombre = "PterPmnta_M";
 console.log(`Mi nombre es ${nombre}`);
