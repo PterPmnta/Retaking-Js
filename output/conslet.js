@@ -1,2 +1,5 @@
-let nombre = "pedro pimienta";
-console.log(`Mi nombre es ${nombre}`);
+"use strict";
+
+var nombre;
+nombre = "pedro pimienta";
+console.log("Mi nombre es ".concat(nombre));
